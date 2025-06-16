@@ -1,3 +1,6 @@
+> 🔹 This repository is written in English to ensure accessibility for all viewers, regardless of the video language.  
+> If you come from the Spanish YouTube video, you're welcome — commands and examples are still easy to follow!
+
 # 📚 YouTube Video Documentation – Raúl In The Cloud
 
 Welcome to the official documentation repository for the **Raúl In The Cloud** YouTube channel ☁️
