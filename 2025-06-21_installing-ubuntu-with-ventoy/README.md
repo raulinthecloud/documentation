@@ -34,7 +34,24 @@ In the end, I demonstrate how to use Ventoy to burn the ISO and perform a clean 
 - `README.md`: this file  
 - `commands.md`: terminal commands or steps used  
 - `links.md`: download links and documentation  
-- (Other files may be added depending on updates)
+
+### 🔧 How-to guides
+- `how-to-enter-bios.md`: how to enter BIOS on most systems  
+- `how-to-access-boot-menu.md`: how to access the boot device selection menu  
+
+### 🧠 Concepts and definitions
+- `what-is-a-partition-table.md`: explanation of partition tables  
+- `what-is-gpt.md`: definition and characteristics of GPT  
+- `what-is-mbr.md`: definition and characteristics of MBR  
+- `what-is-guid.md`: explanation of GUID  
+- `what-is-uefi.md`: what UEFI is and how it works  
+- `what-is-bios.md`: what BIOS is and its legacy role  
+- `what-is-csm.md`: what Compatibility Support Module (CSM) is  
+- `what-is-crc32.md`: what CRC32 checksum is and its purpose  
+
+### ⚖️ Comparisons
+- `gpt-vs-mbr.md`: comparison between GPT and MBR  
+- `uefi-vs-legacy-bios.md`: comparison between UEFI and Legacy BIOS  
 
 ---
 
