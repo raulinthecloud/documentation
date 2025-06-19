@@ -3,7 +3,7 @@
 | Feature                          | GPT (GUID Partition Table)                        | MBR (Master Boot Record)                        |
 |----------------------------------|---------------------------------------------------|-------------------------------------------------|
 | 📅 Age                           | Modern (since 2001, with UEFI)                    | Old (since 1983)                                |
-| 🧬 Partition Identification      | Uses globally unique GUIDs                        | Uses simple type codes                          |
+| 🧬 Partition Identification      | Uses globally unique GUIDs                        | Uses simple partition type codes                |
 | 🔢 Max Number of Partitions     | 128 (default)                                     | 4 primary or 3 primary + 1 extended             |
 | 💾 Max Disk Size                | Up to 9.4 ZB                                      | Up to 2 TB                                      |
 | 🔁 Redundancy                   | Yes (backup table at disk end)                    | No                                              |
