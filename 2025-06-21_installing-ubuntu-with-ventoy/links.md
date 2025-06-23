@@ -15,6 +15,7 @@
 ## 🛠️ USB Boot Tools
 
 - [Ventoy official site](https://www.ventoy.net/)
+- [Ventoy Secure Boot site](https://www.ventoy.net/en/doc_secure.html)
 - [Rufus official site](https://rufus.ie/)
 
 ---
